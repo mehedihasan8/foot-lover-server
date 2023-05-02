@@ -1,0 +1,287 @@
+[
+  {
+    "id": 1,
+    "name": "Gordon Ramsay",
+    "photo": "https://example.com/gordon-ramsay.jpg",
+    "experience": 25,
+    "recipes": [
+      {
+        "name": "Beef Wellington",
+        "ingredients": [
+          "beef fillet",
+          "puff pastry",
+          "mushrooms",
+          "prosciutto",
+          "Dijon mustard"
+        ],
+        "method": "Preheat the oven. Season the beef fillet, then sear it in a hot pan. Cover with a layer of mustard and mushrooms. Wrap in prosciutto and puff pastry, then bake in the oven until golden brown.",
+        "rating": 4.5,
+        "favorite": false
+      },
+      {
+        "name": "Scrambled Eggs",
+        "ingredients": ["eggs", "butter", "salt", "pepper", "heavy cream"],
+        "method": "Whisk eggs and cream together. Melt butter in a pan. Pour egg mixture into the pan and stir constantly until cooked to desired consistency.",
+        "rating": 4.2,
+        "favorite": false
+      },
+      {
+        "name": "Lobster Risotto",
+        "ingredients": [
+          "lobster",
+          "arborio rice",
+          "shallots",
+          "garlic",
+          "white wine",
+          "parmesan cheese"
+        ],
+        "method": "Cook the rice in a broth until al dente. Saute shallots and garlic, then add in the lobster meat. Add in white wine, then slowly stir in the rice. Top with grated parmesan cheese.",
+        "rating": 4.8,
+        "favorite": false
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Ina Garten",
+    "photo": "https://example.com/ina-garten.jpg",
+    "experience": 30,
+    "recipes": [
+      {
+        "name": "Lemon Roasted Chicken",
+        "ingredients": ["chicken", "lemon", "garlic", "thyme", "butter"],
+        "method": "Place chicken in a roasting pan. Stuff with lemon and thyme. Rub with garlic and butter. Roast in the oven until cooked through.",
+        "rating": 4.3,
+        "favorite": false
+      },
+      {
+        "name": "Macaroni and Cheese",
+        "ingredients": [
+          "macaroni",
+          "butter",
+          "flour",
+          "milk",
+          "cheddar cheese"
+        ],
+        "method": "Cook macaroni according to package instructions. Make a roux with butter and flour. Whisk in milk and cook until thickened. Stir in grated cheddar cheese until melted. Mix in macaroni and serve.",
+        "rating": 4.6,
+        "favorite": false
+      },
+      {
+        "name": "Beef Bourguignon",
+        "ingredients": [
+          "beef stew meat",
+          "bacon",
+          "carrots",
+          "onion",
+          "red wine",
+          "beef broth"
+        ],
+        "method": "Brown beef and bacon in a large pot. Add in carrots and onion. Pour in red wine and beef broth. Simmer until beef is tender.",
+        "rating": 4.9,
+        "favorite": false
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Alexandra Guarnaschelli",
+    "photo": "https://www.foodnetwork.com/content/dam/images/food/fullset/2016/1/14/0/FN_alexandra-guarnaschelli-headshot-2017.jpg.rend.hgtvcom.616.616.suffix/1484399313472.jpeg",
+    "experience": 25,
+    "numRecipes": 75,
+    "likes": 32000,
+    "recipes": [
+      {
+        "name": "Spaghetti Carbonara",
+        "ingredients": [
+          "spaghetti",
+          "bacon",
+          "egg yolks",
+          "Parmesan cheese",
+          "black pepper",
+          "heavy cream"
+        ],
+        "cookingMethod": "Boil the spaghetti, cook the bacon, whisk the egg yolks, add the Parmesan cheese, black pepper, and heavy cream to make the sauce, toss everything together.",
+        "rating": 4.8,
+        "isFavorite": false
+      },
+      {
+        "name": "Lemon Bars",
+        "ingredients": [
+          "all-purpose flour",
+          "powdered sugar",
+          "unsalted butter",
+          "granulated sugar",
+          "eggs",
+          "lemons"
+        ],
+        "cookingMethod": "Mix flour, powdered sugar, and butter, press into pan, bake. Mix granulated sugar, eggs, and lemon juice and zest, pour over crust, bake.",
+        "rating": 4.6,
+        "isFavorite": false
+      },
+      {
+        "name": "Chili Con Carne",
+        "ingredients": [
+          "ground beef",
+          "onion",
+          "green bell pepper",
+          "garlic",
+          "tomato sauce",
+          "chili powder"
+        ],
+        "cookingMethod": "Brown the ground beef, onion, green bell pepper, and garlic. Add tomato sauce, chili powder, and other spices as desired. Simmer until thickened and flavors melded.",
+        "rating": 4.3,
+        "isFavorite": false
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Julia Child",
+    "photo": "https://example.com/julia-child.jpg",
+    "experience": 40,
+    "recipes": [
+      {
+        "name": "Boeuf Bourguignon",
+        "ingredients": [
+          "beef chuck",
+          "red wine",
+          "onions",
+          "carrots",
+          "bacon",
+          "garlic"
+        ],
+        "method": "Marinate beef in red wine. Brown bacon in a large pot, then remove. Brown beef in bacon fat. Add onions, carrots, and garlic. Add back the bacon and beef. Pour in the marinade and simmer until tender.",
+        "rating": 4.7,
+        "favorite": false
+      },
+      {
+        "name": "Coq au Vin",
+        "ingredients": [
+          "chicken",
+          "red wine",
+          "mushrooms",
+          "pearl onions",
+          "bacon"
+        ],
+        "method": "Brown chicken in a large pot. Remove chicken and sauté mushrooms, onions, and bacon. Return chicken to the pot, pour in red wine, and simmer until chicken is cooked through.",
+        "rating": 4.6,
+        "favorite": false
+      },
+      {
+        "name": "Chocolate Mousse",
+        "ingredients": [
+          "chocolate",
+          "eggs",
+          "sugar",
+          "heavy cream",
+          "vanilla extract"
+        ],
+        "method": "Melt chocolate in a bowl. Beat eggs and sugar in a separate bowl. Fold melted chocolate into the egg mixture. Whip cream with vanilla extract and fold into the chocolate mixture. Chill until set.",
+        "rating": 4.9,
+        "favorite": false
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "name": "Nigella Lawson",
+    "photo": "https://example.com/nigella-lawson.jpg",
+    "experience": 15,
+    "recipes": [
+      {
+        "name": "Pasta Carbonara",
+        "ingredients": [
+          "spaghetti",
+          "pancetta",
+          "eggs",
+          "parmesan cheese",
+          "black pepper"
+        ],
+        "method": "Cook pasta until al dente. Fry pancetta until crispy. In a bowl, whisk together eggs, parmesan cheese, and black pepper. Drain pasta and toss with pancetta. Stir in egg mixture until creamy.",
+        "rating": 4.5,
+        "favorite": false
+      },
+      {
+        "name": "Sticky Toffee Pudding",
+        "ingredients": [
+          "dates",
+          "butter",
+          "sugar",
+          "eggs",
+          "flour",
+          "vanilla ice cream"
+        ],
+        "method": "Boil dates in water, then blend into a puree. Cream butter and sugar. Beat in eggs, flour, and date puree. Bake in a cake tin. Serve with vanilla ice cream.",
+        "rating": 4.8,
+        "favorite": false
+      },
+      {
+        "name": "Chicken Korma",
+        "ingredients": [
+          "chicken",
+          "onion",
+          "garlic",
+          "ginger",
+          "yogurt",
+          "spices"
+        ],
+        "method": "Marinate chicken in yogurt and spices. Sauté onions, garlic, and ginger. Add chicken and cook until browned. Stir in more spices and simmer until chicken is cooked through.",
+        "rating": 4.3,
+        "favorite": false
+      }
+    ]
+  },
+  {
+    "id": 1,
+    "name": "Jamie Oliver",
+    "photo": "https://example.com/jamie.jpg",
+    "yearsOfExperience": 25,
+    "numRecipes": 150,
+    "likes": 10000,
+    "recipes": [
+      {
+        "name": "Spaghetti Bolognese",
+        "ingredients": [
+          "spaghetti",
+          "beef mince",
+          "tomatoes",
+          "onion",
+          "garlic",
+          "olive oil"
+        ],
+        "cookingMethod": "1. Cook the spaghetti according to the package instructions. \n2. Heat the olive oil in a pan and fry the onion and garlic until soft. \n3. Add the beef mince and fry until browned. \n4. Add the tomatoes and simmer for 20 minutes. \n5. Serve with the cooked spaghetti.",
+        "rating": 4.5,
+        "favorite": false
+      },
+      {
+        "name": "Roast Chicken",
+        "ingredients": [
+          "whole chicken",
+          "potatoes",
+          "carrots",
+          "onion",
+          "garlic",
+          "butter"
+        ],
+        "cookingMethod": "1. Preheat the oven to 200°C. \n2. Cut the potatoes, carrots, and onion into chunks and place them in a roasting tin. \n3. Rub the chicken with butter and season with salt and pepper. \n4. Place the chicken on top of the vegetables. \n5. Roast in the oven for 1 hour and 20 minutes, or until the chicken is cooked through. \n6. Serve with the roasted vegetables.",
+        "rating": 4.8,
+        "favorite": true
+      },
+      {
+        "name": "Tiramisu",
+        "ingredients": [
+          "ladyfingers",
+          "espresso",
+          "sugar",
+          "egg yolks",
+          "mascarpone cheese",
+          "cocoa powder"
+        ],
+        "cookingMethod": "1. Brew the espresso and add sugar to taste. \n2. Dip the ladyfingers in the espresso and layer them in a dish. \n3. Mix the egg yolks and sugar in a bowl. \n4. Add the mascarpone cheese and mix until smooth. \n5. Spread the mascarpone mixture over the ladyfingers. \n6. Refrigerate for at least 2 hours. \n7. Sprinkle cocoa powder over the top before serving.",
+        "rating": 4.7,
+        "favorite": false
+      }
+    ]
+  }
+]
