@@ -1,6 +1,6 @@
 [
   {
-    "id": 1,
+    "id": "1",
     "name": "Gordon Ramsay",
     "photo": "https://example.com/gordon-ramsay.jpg",
     "experience": 25,
@@ -42,7 +42,7 @@
     ]
   },
   {
-    "id": 2,
+    "id": "2",
     "name": "Ina Garten",
     "photo": "https://example.com/ina-garten.jpg",
     "experience": 30,
@@ -84,7 +84,7 @@
     ]
   },
   {
-    "id": 3,
+    "id": "3",
     "name": "Alexandra Guarnaschelli",
     "photo": "https://www.foodnetwork.com/content/dam/images/food/fullset/2016/1/14/0/FN_alexandra-guarnaschelli-headshot-2017.jpg.rend.hgtvcom.616.616.suffix/1484399313472.jpeg",
     "experience": 25,
@@ -136,7 +136,7 @@
     ]
   },
   {
-    "id": 4,
+    "id": "4",
     "name": "Julia Child",
     "photo": "https://example.com/julia-child.jpg",
     "experience": 40,
@@ -184,7 +184,7 @@
     ]
   },
   {
-    "id": 5,
+    "id": "5",
     "name": "Nigella Lawson",
     "photo": "https://example.com/nigella-lawson.jpg",
     "experience": 15,
@@ -233,10 +233,10 @@
     ]
   },
   {
-    "id": 1,
+    "id": "6",
     "name": "Jamie Oliver",
     "photo": "https://example.com/jamie.jpg",
-    "yearsOfExperience": 25,
+    "experience": 25,
     "numRecipes": 150,
     "likes": 10000,
     "recipes": [
