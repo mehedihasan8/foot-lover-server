@@ -12,13 +12,9 @@ app.get("/", (req, res) => {
 });
 app.get("/:id", (req, res) => {
   const id = req.params.id;
-  const SelectedChef = chef.find((c) => c.id === id);
+  const SelectedChef = chef.find((singeChef) => singeChef.id === id);
   res.send(SelectedChef);
 });
-
-// app.get("/", (req, res) => {
-//   res.send("Food Lovers Server runnig");
-// });
 
 app.listen(port, () => {
   console.log(`Food Lovers Server runnig ${port}`);
