@@ -1,8 +1,8 @@
 [
   {
-    "id": "1",
+    "id": 1,
     "name": "Gordon Ramsay",
-    "photo": "https://pngimg.com/uploads/chef/chef_PNG185.png",
+    "photo": "https://pngimg.com/uploads/chef/chef_PNG93.png",
     "experience": 25,
     "numRecipes": 110,
     "likes": 40000,
@@ -10,6 +10,7 @@
     "recipes": [
       {
         "name": "Beef Wellington",
+        "img": "https://img.freepik.com/free-vector/hand-drawn-indian-cuisine-illustration_23-2149330390.jpg?size=338&ext=jpg&ga=GA1.1.801161237.1677041289&semt=robertav1_2_sidr",
         "ingredients": [
           "beef fillet",
           "puff pastry",
@@ -23,6 +24,7 @@
       },
       {
         "name": "Scrambled Eggs",
+        "img": "https://img.freepik.com/premium-vector/creative-falafel-vector-design-best-asian-food-colorful-illustrations-design-premium-design_609667-284.jpg?size=338&ext=jpg&ga=GA1.1.801161237.1677041289&semt=robertav1_2_sidr",
         "ingredients": ["eggs", "butter", "salt", "pepper", "heavy cream"],
         "method": "Whisk eggs and cream together. Melt butter in a pan. Pour egg mixture into the pan and stir constantly until cooked to desired consistency.",
         "rating": 4.2,
@@ -30,6 +32,7 @@
       },
       {
         "name": "Lobster Risotto",
+        "img": "https://img.freepik.com/premium-vector/fried-tofu-salad-soup-with-pepper-sesame-soy-sauce-asian-dish-vegetarians-vegans-vector-flat-food-illustration_427567-4254.jpg?size=338&ext=jpg&ga=GA1.2.801161237.1677041289&semt=robertav1_2_sidr",
         "ingredients": [
           "lobster",
           "arborio rice",
@@ -45,7 +48,7 @@
     ]
   },
   {
-    "id": "2",
+    "id": 2,
     "name": "Ina Garten",
     "photo": "https://pngimg.com/uploads/chef/chef_PNG94.png",
     "experience": 30,
@@ -55,6 +58,7 @@
     "recipes": [
       {
         "name": "Lemon Roasted Chicken",
+        "img": "https://img.freepik.com/premium-vector/asian-healthy-food-burger-noodles-chicken-meat-duck-meat_741965-89.jpg?size=338&ext=jpg&ga=GA1.2.801161237.1677041289&semt=robertav1_2_sidr",
         "ingredients": ["chicken", "lemon", "garlic", "thyme", "butter"],
         "method": "Place chicken in a roasting pan. Stuff with lemon and thyme. Rub with garlic and butter. Roast in the oven until cooked through.",
         "rating": 4.3,
@@ -62,6 +66,7 @@
       },
       {
         "name": "Macaroni and Cheese",
+        "img": "https://img.freepik.com/premium-vector/locro-illustration-hand-drawn-style_23-2149200367.jpg?size=338&ext=jpg&ga=GA1.2.801161237.1677041289&semt=robertav1_2_sidr",
         "ingredients": [
           "macaroni",
           "butter",
@@ -75,6 +80,7 @@
       },
       {
         "name": "Beef Bourguignon",
+        "img": "https://img.freepik.com/premium-vector/background-illustration-indonesian-food-meat_49673-154.jpg?size=338&ext=jpg&ga=GA1.2.801161237.1677041289&semt=robertav1_2_sidr",
         "ingredients": [
           "beef stew meat",
           "bacon",
@@ -90,8 +96,8 @@
     ]
   },
   {
-    "id": " 3",
-    "name": "Alexandra",
+    "id": 3,
+    "name": "Alexandra Guarnaschelli",
     "photo": "https://pngimg.com/uploads/chef/chef_PNG124.png",
     "experience": 25,
     "numRecipes": 75,
@@ -100,6 +106,7 @@
     "recipes": [
       {
         "name": "Spaghetti Carbonara",
+        "img": "https://img.freepik.com/premium-vector/meat-salmon-skewers-with-ketchup-arugula-tomato-white-plate-vector-food-clipart_530505-582.jpg?size=338&ext=jpg&ga=GA1.2.801161237.1677041289&semt=robertav1_2_sidr",
         "ingredients": [
           "spaghetti",
           "bacon",
@@ -114,6 +121,7 @@
       },
       {
         "name": "Lemon Bars",
+        "img": "https://img.freepik.com/premium-vector/chickpeas-with-rice-broccoli-bowl-top-viewcartoon-drawinghealthy-vegetarian-food-vector_549497-405.jpg?size=338&ext=jpg&ga=GA1.2.801161237.1677041289&semt=robertav1_2_sidr",
         "ingredients": [
           "all-purpose flour",
           "powdered sugar",
@@ -128,6 +136,7 @@
       },
       {
         "name": "Chili Con Carne",
+        "img": "https://img.freepik.com/free-vector/watercolor-thai-food-illustration_23-2149306115.jpg?size=338&ext=jpg&ga=GA1.1.801161237.1677041289&semt=robertav1_2_sidr",
         "ingredients": [
           "ground beef",
           "onion",
@@ -143,7 +152,7 @@
     ]
   },
   {
-    "id": " 4",
+    "id": 4,
     "name": "Julia Child",
     "photo": "https://pngimg.com/uploads/chef/chef_PNG200.png",
     "experience": 40,
@@ -153,6 +162,7 @@
     "recipes": [
       {
         "name": "Boeuf Bourguignon",
+        "img": "https://img.freepik.com/premium-vector/sweet-sour-pork-chinese-food-vector-illustration_338371-855.jpg?size=338&ext=jpg&ga=GA1.1.801161237.1677041289&semt=robertav1_2_sidr",
         "ingredients": [
           "beef chuck",
           "red wine",
@@ -167,6 +177,7 @@
       },
       {
         "name": "Coq au Vin",
+        "img": "https://img.freepik.com/free-vector/realistic-poke-bowl-food-illustration_52683-82198.jpg?size=338&ext=jpg&ga=GA1.1.801161237.1677041289&semt=robertav1_2_sidr.webp",
         "ingredients": [
           "chicken",
           "red wine",
@@ -180,6 +191,7 @@
       },
       {
         "name": "Chocolate Mousse",
+        "img": "https://img.freepik.com/free-vector/realistic-thai-food-illustration_23-2149282150.jpg?size=338&ext=jpg&ga=GA1.1.801161237.1677041289&semt=robertav1_2_sidr",
         "ingredients": [
           "chocolate",
           "eggs",
@@ -194,7 +206,7 @@
     ]
   },
   {
-    "id": "5",
+    "id": 5,
     "name": "Nigella Lawson",
     "photo": "https://pngimg.com/uploads/chef/chef_PNG139.png",
     "experience": 15,
@@ -204,6 +216,7 @@
     "recipes": [
       {
         "name": "Pasta Carbonara",
+        "img": "https://img.freepik.com/free-vector/bbq-grilled-steaks-served-with-various-herbs-condiments-sauce-wooden-table-realistic-illustration_1284-28248.jpg?size=338&ext=jpg&ga=GA1.1.801161237.1677041289&semt=robertav1_2_sidr",
         "ingredients": [
           "spaghetti",
           "pancetta",
@@ -217,6 +230,7 @@
       },
       {
         "name": "Sticky Toffee Pudding",
+        "img": "https://img.freepik.com/free-vector/watercolor-pilaf-illustration_52683-86292.jpg?size=338&ext=jpg&ga=GA1.1.801161237.1677041289&semt=robertav1_2_sidr",
         "ingredients": [
           "dates",
           "butter",
@@ -231,6 +245,7 @@
       },
       {
         "name": "Chicken Korma",
+        "img": "https://img.freepik.com/free-vector/realistic-pilaf-illustration_52683-87012.jpg?size=338&ext=jpg&ga=GA1.1.801161237.1677041289&semt=robertav1_2_sidr",
         "ingredients": [
           "chicken",
           "onion",
@@ -246,7 +261,7 @@
     ]
   },
   {
-    "id": "6",
+    "id": 6,
     "name": "Jamie Oliver",
     "photo": "https://pngimg.com/uploads/chef/chef_PNG140.png",
     "experience": 25,
@@ -256,6 +271,7 @@
     "recipes": [
       {
         "name": "Spaghetti Bolognese",
+        "img": "https://img.freepik.com/premium-vector/nasi-goreng-seafood-seafood-fried-rice-white-background-top-view_307665-197.jpg?size=338&ext=jpg&ga=GA1.1.801161237.1677041289&semt=robertav1_2_sidr",
         "ingredients": [
           "spaghetti",
           "beef mince",
@@ -270,6 +286,7 @@
       },
       {
         "name": "Roast Chicken",
+        "img": "https://img.freepik.com/premium-vector/bakso-mercon-meatballs-with-spicy-sauce-top-view_307665-302.jpg?size=338&ext=jpg&ga=GA1.1.801161237.1677041289&semt=robertav1_2_sidr",
         "ingredients": [
           "whole chicken",
           "potatoes",
@@ -284,6 +301,7 @@
       },
       {
         "name": "Tiramisu",
+        "img": "https://img.freepik.com/free-vector/hand-drawn-greek-cuisine_52683-82902.jpg?size=338&ext=jpg&ga=GA1.1.801161237.1677041289&semt=robertav1_2_sidr.webp",
         "ingredients": [
           "ladyfingers",
           "espresso",
