@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Gordon Ramsay",
-    "photo": "https://pngimg.com/uploads/chef/chef_PNG93.png",
+    "photo": "https://www.pngall.com/wp-content/uploads/12/Chef-PNG-Photo.png",
     "experience": 25,
     "numRecipes": 110,
     "likes": 40000,
@@ -50,7 +50,7 @@
   {
     "id": 2,
     "name": "Ina Garten",
-    "photo": "https://pngimg.com/uploads/chef/chef_PNG94.png",
+    "photo": "https://i.pinimg.com/originals/82/be/22/82be22fd558433e235a173c2257c0cbc.png",
     "experience": 30,
     "numRecipes": 250,
     "likes": 27000,
